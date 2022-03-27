@@ -1,50 +1,86 @@
 [
   {
     "id": "1",
-    "name": "my-app",
+    "name": "selling fan red",
     "price": 500,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg/220px-1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg",
-    "color": "green",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ventilatore_a_soffitto_%283%29.png",
     "ratting": "0.5"
   },
   {
     "id": "2",
-    "name": "my-map",
+    "name": "selling fan black",
     "price": 300,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg/220px-1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg",
-    "color": "green",
+    "img": "https://images.unsplash.com/photo-1632394128474-b8c3dca00f83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "ratting": "0.5"
   },
   {
-    "id": "1",
-    "name": "my-app",
+    "id": "3",
+    "name": " selling fan cofee",
     "price": 500,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg/220px-1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg",
-    "color": "green",
+    "img": "https://images.unsplash.com/photo-1555470100-1728256970aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ratting": "0.5"
   },
   {
-    "id": "1",
-    "name": "my-app",
+    "id": "4",
+    "name": " selling fan pure white",
     "price": 500,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg/220px-1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg",
-    "color": "green",
+    "img": "https://images.unsplash.com/photo-1581153691064-8d0ec09725b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
     "ratting": "0.5"
   },
   {
-    "id": "1",
-    "name": "my-app",
+    "id": "5",
+    "name": "selling fan shadow",
     "price": 500,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg/220px-1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg",
-    "color": "green",
+    "img": "https://images.unsplash.com/photo-1576503963299-fcd31822b523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
     "ratting": "0.5"
   },
   {
-    "id": "1",
-    "name": "my-app",
+    "id": "6",
+    "name": "selling fan gray",
     "price": 500,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg/220px-1886_Starley_%27Rover%27_Safety_Cycle_British_Motor_Museum_09-2016_%2829928044262%29.jpg",
-    "color": "green",
+    "img": "https://images.unsplash.com/photo-1609519479841-5fd3b2884e17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
+    "ratting": "0.5"
+  },
+  {
+    "id": "7",
+    "name": "selling fan pure red",
+    "price": 500,
+    "img": "https://images.unsplash.com/photo-1581435143107-2a726e8a6457?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+    "ratting": "0.5"
+  },
+  {
+    "id": "8",
+    "name": "wall fan red",
+    "price": 300,
+    "img": "https://images.unsplash.com/photo-1587495480520-4ed6c3129a76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "ratting": "0.5"
+  },
+  {
+    "id": "9",
+    "name": "guest room fan ",
+    "price": 500,
+    "img": "https://images.unsplash.com/photo-1542311994-d7bb36a5d6fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+    "ratting": "0.5"
+  },
+  {
+    "id": "10",
+    "name": "bedroom fan",
+    "price": 500,
+    "img": "https://images.unsplash.com/photo-1574120581418-95eaf345f8e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "ratting": "0.5"
+  },
+  {
+    "id": "11",
+    "name": "dining room fan",
+    "price": 500,
+    "img": "https://images.unsplash.com/photo-1611441084780-9bc384312534?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "ratting": "0.5"
+  },
+  {
+    "id": "12",
+    "name": "tv room ",
+    "price": 500,
+    "img": "https://images.unsplash.com/photo-1581791836186-7609d9ecfd38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2VpbGluZyUyMGZhbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "ratting": "0.5"
   }
 ]

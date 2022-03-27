@@ -1,5 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './productBox.css';
 
 const ProductBox = ({ product, handleclick }) => {
   const { name, img, price, color } = product;
@@ -7,11 +8,11 @@ const ProductBox = ({ product, handleclick }) => {
   // console.log(props);
   return (
     <div className='product'>
-      <img src={img} alt=""></img>
-      <h2>title : {name}</h2>
+      <img src={img} alt="" className='product-img'></img>
+      <h2>{name}</h2>
       <h3>price : {price} </h3>
-      <h3>color : {color}</h3>
-      <button onClick={() => handleclick(product)}>Add To Cart</button>
+      <button onClick={() => handleclick(product)} type="button" class="btn btn-primary">Add To Cart</button>
+
 
     </div>
 
