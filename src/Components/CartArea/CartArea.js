@@ -1,5 +1,5 @@
 import React from "react";
-
+import './CartArea.css';
 
 const CartArea = (props) => {
     const { name, img } = props.cart;
@@ -7,7 +7,7 @@ const CartArea = (props) => {
     }
 
     return (
-        <div>
+        <div className='cart-section'>
             <h1>Add to cart successful</h1>
             <img src={img} alt=""></img>
             <h3>{name}</h3>
